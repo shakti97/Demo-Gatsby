@@ -1,12 +1,22 @@
-# gatsby-starter-hello-world
-Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site.
+# Gatsby
+Build Apps and Website with Reactjs
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
-```
+Live App:- http://demo_gatsby.surge.sh/
 
-Or [view the live demo here](https://gatsby-starter-hello-world-demo.netlify.com/).
+# Gatsby
+helps us to build website and apps with Reactjs. It is built on reactjs.
 
-## Running in development
-`gatsby develop`
+Use gatsbyjs cli to build your first gatsby site.
+
+# Use Starter
+you can use the predefined starter with some configuration to develop your site.
+      "npx gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world"
+
+# Explain Stater
+npx :- it executes the npm package without installing it locally
+gatsby :- gatsby cli tool
+new :- to generate a new gatsby project
+if omit repo it will build the default starter
+
+# Gatsby uses the hot reloading feature to speed up the develpment process
+ 
