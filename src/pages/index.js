@@ -1,6 +1,6 @@
 import React from "react"
 import About from './about.js';
-import Contact from '../Components/Contact';
+import Contact from './Contact';
 import Layout from '../Components/Layout';
 export default () => 
             <Layout>
